@@ -1,0 +1,12 @@
+Aula 001: Séries Temporais - Análise Exploratória
+
+Vamos apresentar a definição de séries temporais, para que são usadas e aprender como fazer uma análise exploratória usando Python.
+
+Séries temporais são observações feitas em intervalos regulares de tempo. Como existe uma dependência do tempo, técnicas tradicionais não são adequadas para lidar com esse tipo de problema.
+ Refefências
+ Repositorio do Github
+ https://github.com/carlosfab/escola-data-science
+ 
+ Notebook de apoio
+ https://github.com/carlosfab/escola-data-science/blob/master/notebooks/Aula_001_S%C3%A9ries_Temporais_(Time_Series)_Parte_1.ipynb
+ 
